@@ -47,6 +47,14 @@ the opponent for an extra challenge.
 * yahtzee
 
 
+## Cool things to try
+
+* Discord bots are always fun! Ask the mods if you need ideas.
+* Try some web scraping (learn the basics if you need to)
+* Draw some graphics or make GIFs in python with [Pillow](https://pillow.readthedocs.io/en/stable/)
+* Lots of interesting project ideas @ https://github.com/karan/Projects :point_left: 
+
+
 ## Other Programming Prompts
 
 * [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
@@ -56,7 +64,7 @@ the opponent for an extra challenge.
 
 ## Other Lists of Programming Projects, Problems, and Prompts
 
-* https://github.com/karan/Projects
+
 * http://www.codeabbey.com/index/task_list
 * https://rosettacode.org/wiki/Category:Solutions_by_Programming_Task
 
