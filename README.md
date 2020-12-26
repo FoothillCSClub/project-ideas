@@ -14,44 +14,36 @@ world, you can more easily choose one that matches your experience
 level and the amount of time you have availiable. You can add your own 
 embelishments, or customize them with your own creativity.
 
+For Multi-Player games, you can design it so that players take
+turns inputting their moves, or you can program the computer to be 
+the opponent for an extra challenge.
+
+### Single Player Games
+
 * interactive text-based game, e.g. 
 [ADVENT](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)
+* snake
+* simon says
+* sliding puzzle
+* 2048
+* asteroids
+* space invaders
+* flappy bird
+* minesweeper
+* sudoku
+* crossword
+* breakout
+
+### Multi-Player Games
 
 * pong
-
-* snake
-
 * tick tac toe
-
-* simon says
-
-* sliding puzzle
-
-* 2048
-
 * mancala
-
-* connect four
-
 * checkers
-
-* asteroids
-
-* space invaders
-
-* flappy bird
-
-* minesweeper
-
+* connect four
 * blackjack
-
+* poker
 * yahtzee
-
-* sudoku
-
-* crossword
-
-* breakout
 
 
 ## Other Programming Prompts
@@ -61,3 +53,5 @@ embelishments, or customize them with your own creativity.
 * Convert text or pictures into ASCII Art.
 
 * Generate [Fractal](https://en.wikipedia.org/wiki/Fractal) Images.
+
+
