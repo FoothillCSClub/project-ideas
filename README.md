@@ -51,4 +51,13 @@ embelishments, or customize them with your own creativity.
 
 * crossword
 
+* breakout
 
+
+## Other Programming Prompts
+
+* [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
+
+* Convert text or pictures into ASCII Art.
+
+* Generate [Fractal](https://en.wikipedia.org/wiki/Fractal) Images.
