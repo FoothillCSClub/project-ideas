@@ -1,5 +1,6 @@
 # project-ideas
 
+
 ## Simple Games for Programming Practice
 
 Need a quick programming project? Try making a simple classic game!
@@ -49,9 +50,13 @@ the opponent for an extra challenge.
 ## Other Programming Prompts
 
 * [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
-
 * Convert text or pictures into ASCII Art.
-
 * Generate [Fractal](https://en.wikipedia.org/wiki/Fractal) Images.
 
+
+## Other Lists of Programming Projects, Problems, and Prompts
+
+* https://github.com/karan/Projects
+* http://www.codeabbey.com/index/task_list
+* https://rosettacode.org/wiki/Category:Solutions_by_Programming_Task
 
