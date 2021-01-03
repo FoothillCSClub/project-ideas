@@ -1,6 +1,5 @@
 # project-ideas
 
-
 ## Simple Games for Programming Practice
 
 Need a quick programming project? Try making a simple classic game!
@@ -46,6 +45,14 @@ the opponent for an extra challenge.
 * poker
 * yahtzee
 
+## Miscellaneous List of Ideas  
+
+**Chat Bot**. Write a terminal program that chats with the user.
+A simple version would respond only to specific words or phrases, and
+give general responses. An intermediate version could analyze 
+the syntactic structure of the user's input and respond accordingly.
+An advanced version could use techniques from machine learning to 
+formulate responses. 
 
 ## Cool things to try
 
