@@ -62,6 +62,13 @@ events that will be visible from that location (e.g. eclipses,
 meteor showers). Additionally, it could display a picture to 
 to show where in the sky that event can be seen.
 
+**Procedural Texture Images**.\
+Generate [Procedural Textures](https://en.m.wikipedia.org/wiki/Procedural_texture)
+by writing a program that outputs an image.
+Alternatively, learn about OpenGL Shading Language and
+use the (GLSL Sandbox)[http://glslsandbox.com/e]
+to experiment and create shaders.
+
 ## Cool things to try
 
 * Discord bots are always fun! Ask the mods if you need ideas.
