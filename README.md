@@ -66,7 +66,7 @@ to show where in the sky that event can be seen.
 Generate [Procedural Textures](https://en.m.wikipedia.org/wiki/Procedural_texture)
 by writing a program that outputs an image.
 Alternatively, learn about OpenGL Shading Language and
-use the (GLSL Sandbox)[http://glslsandbox.com/e]
+use the [GLSL Sandbox](http://glslsandbox.com/e)
 to experiment and create shaders.
 
 ## Cool things to try
