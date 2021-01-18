@@ -47,12 +47,18 @@ the opponent for an extra challenge.
 
 ## Miscellaneous List of Ideas  
 
-**Chat Bot**. Write a terminal program that chats with the user.
+**Chat Bot** - Write a terminal program that chats with the user.
 A simple version would respond only to specific words or phrases, and
 give general responses. An intermediate version could analyze 
 the syntactic structure of the user's input and respond accordingly.
 An advanced version could use techniques from machine learning to 
 formulate responses. 
+
+**Astronomy Calendar** - Make a web page where you can input
+your a location, and the site will display upcoming stronomical 
+events that will be visible from that location (e.g. eclipses,
+meteor showers). Additionally, it could display a picture to 
+to show where in the sky that event can be seen.
 
 ## Cool things to try
 
