@@ -55,7 +55,7 @@ An advanced version could use techniques from machine learning to
 formulate responses. 
 
 **Astronomy Calendar** - Make a web page where you can input
-your a location, and the site will display upcoming stronomical 
+a location, and the site will display upcoming stronomical 
 events that will be visible from that location (e.g. eclipses,
 meteor showers). Additionally, it could display a picture to 
 to show where in the sky that event can be seen.
