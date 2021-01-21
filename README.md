@@ -47,6 +47,13 @@ the opponent for an extra challenge.
 
 ## Miscellaneous List of Ideas  
 
+**Task Planner**.\
+Create an spication that allows users to input tasks
+based on when they need to be completed. Each task
+can have a name, a finish-by date/time, and other
+optional data. Display the saved tasks in a list,
+automatically sorted based on finish-by date.
+
 **Chat Bot**.\
 Write a terminal program that chats with the user.
 A simple version would respond only to specific words or phrases, and
